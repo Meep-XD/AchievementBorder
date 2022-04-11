@@ -1,0 +1,7 @@
+main: me.Meep_XD.AchievmentBorder.Main
+name: AchievmentBorder
+version: 0.1
+author: Meep_XD
+
+commands:
+  resetborder:
